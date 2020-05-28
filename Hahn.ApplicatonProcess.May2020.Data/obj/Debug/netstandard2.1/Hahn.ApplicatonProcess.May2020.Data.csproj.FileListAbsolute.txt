@@ -1,0 +1,9 @@
+C:\Users\murat\source\repos\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.May2020.Data.deps.json
+C:\Users\murat\source\repos\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.May2020.Data.dll
+C:\Users\murat\source\repos\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.May2020.Data.pdb
+C:\Users\murat\source\repos\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.May2020.Data.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.May2020.Data.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.May2020.Data.AssemblyInfo.cs
+C:\Users\murat\source\repos\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.May2020.Data.dll
+C:\Users\murat\source\repos\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.May2020.Data.pdb
+C:\Users\murat\source\repos\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.May2020.Data.csproj.CoreCompileInputs.cache
