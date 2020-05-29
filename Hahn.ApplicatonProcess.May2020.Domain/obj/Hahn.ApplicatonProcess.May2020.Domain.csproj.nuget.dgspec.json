@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj": {}
+    "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj": {
+    "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj",
+        "projectUniqueName": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj",
         "projectName": "Hahn.ApplicatonProcess.May2020.Data",
-        "projectPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj",
+        "projectPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj",
         "packagesPath": "C:\\Users\\murat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\obj\\",
+        "outputPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj": {
+    "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj",
         "projectName": "Hahn.ApplicatonProcess.May2020.Domain",
-        "projectPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj",
+        "projectPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj",
         "packagesPath": "C:\\Users\\murat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\obj\\",
+        "outputPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -115,8 +115,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj": {
-                "projectPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj"
+              "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj": {
+                "projectPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj"
               }
             }
           }

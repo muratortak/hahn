@@ -4519,11 +4519,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Web.csproj",
+      "projectUniqueName": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Web.csproj",
       "projectName": "Hahn.ApplicatonProcess.May2020.Web",
-      "projectPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Web.csproj",
+      "projectPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Web.csproj",
       "packagesPath": "C:\\Users\\murat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.Application\\obj\\",
+      "outputPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4544,11 +4544,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj": {
-              "projectPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj"
+            "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj": {
+              "projectPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj"
             },
-            "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj": {
-              "projectPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj"
+            "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj": {
+              "projectPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj"
             }
           }
         }

@@ -2761,3 +2761,32 @@ System.InvalidOperationException: No route matches the supplied values.
 05/28/2020 19:40:34 -04:00 Executed endpoint '"Hahn.ApplicatonProcess.May2020.Web.Controllers.ApplicantController.Post (Hahn.ApplicatonProcess.May2020.Web)"'
 05/28/2020 19:40:34 -04:00 HTTP "POST" "/api/applicant" responded 201 in 1508.7701 ms
 05/28/2020 19:40:34 -04:00 Request finished in 1540.5287ms 201 
+05/28/2020 21:17:37 -04:00 Application Starting
+05/28/2020 21:17:45 -04:00 Entity Framework Core "3.1.4" initialized '"ApiContext"' using provider '"Microsoft.EntityFrameworkCore.InMemory"' with options: "StoreName=ApplicantDB "
+05/28/2020 21:17:45 -04:00 Saved 1 entities to in-memory store.
+05/28/2020 21:17:46 -04:00 Now listening on: "https://localhost:5001"
+05/28/2020 21:17:46 -04:00 Now listening on: "http://localhost:5000"
+05/28/2020 21:17:46 -04:00 Application started. Press Ctrl+C to shut down.
+05/28/2020 21:17:46 -04:00 Hosting environment: "Development"
+05/28/2020 21:17:46 -04:00 Content root path: "C:\Users\murat\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.Application"
+05/28/2020 21:17:57 -04:00 Request starting HTTP/2 GET https://localhost:5001/applicant  
+05/28/2020 21:17:57 -04:00 HTTP "GET" "/applicant" responded 404 in 58.9504 ms
+05/28/2020 21:17:58 -04:00 Request finished in 151.9824ms 404 
+05/28/2020 21:19:26 -04:00 Application Starting
+05/28/2020 21:19:30 -04:00 Entity Framework Core "3.1.4" initialized '"ApiContext"' using provider '"Microsoft.EntityFrameworkCore.InMemory"' with options: "StoreName=ApplicantDB "
+05/28/2020 21:19:30 -04:00 Saved 1 entities to in-memory store.
+05/28/2020 21:19:31 -04:00 Now listening on: "https://localhost:5001"
+05/28/2020 21:19:31 -04:00 Now listening on: "http://localhost:5000"
+05/28/2020 21:19:31 -04:00 Application started. Press Ctrl+C to shut down.
+05/28/2020 21:19:31 -04:00 Hosting environment: "Development"
+05/28/2020 21:19:31 -04:00 Content root path: "C:\Users\murat\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.Application"
+05/28/2020 21:19:42 -04:00 Request starting HTTP/2 GET https://localhost:5001/api/applicant/1  
+05/28/2020 21:19:43 -04:00 Executing endpoint '"Hahn.ApplicatonProcess.May2020.Web.Controllers.ApplicantController.Get (Hahn.ApplicatonProcess.May2020.Web)"'
+05/28/2020 21:19:43 -04:00 Route matched with "{action = \"Get\", controller = \"Applicant\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get(Int32)" on controller "Hahn.ApplicatonProcess.May2020.Web.Controllers.ApplicantController" ("Hahn.ApplicatonProcess.May2020.Web").
+05/28/2020 21:19:43 -04:00 Entity Framework Core "3.1.4" initialized '"ApiContext"' using provider '"Microsoft.EntityFrameworkCore.InMemory"' with options: "StoreName=ApplicantDB "
+05/28/2020 21:19:44 -04:00 Executing ObjectResult, writing value of type '"Hahn.ApplicatonProcess.May2020.Domain.Models.BusinessApplicant"'.
+05/28/2020 21:19:45 -04:00 Executed action "Hahn.ApplicatonProcess.May2020.Web.Controllers.ApplicantController.Get (Hahn.ApplicatonProcess.May2020.Web)" in 1986.2951ms
+05/28/2020 21:19:46 -04:00 Executed endpoint '"Hahn.ApplicatonProcess.May2020.Web.Controllers.ApplicantController.Get (Hahn.ApplicatonProcess.May2020.Web)"'
+05/28/2020 21:19:46 -04:00 HTTP "GET" "/api/applicant/1" responded 200 in 3346.4844 ms
+05/28/2020 21:19:46 -04:00 Request finished in 3434.169ms 200 application/json; charset=utf-8
+05/28/2020 21:20:04 -04:00 Application is shutting down...

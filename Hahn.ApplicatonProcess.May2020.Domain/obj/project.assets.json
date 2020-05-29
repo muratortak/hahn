@@ -8081,11 +8081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj",
       "projectName": "Hahn.ApplicatonProcess.May2020.Domain",
-      "projectPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj",
+      "projectPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj",
       "packagesPath": "C:\\Users\\murat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\obj\\",
+      "outputPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8106,8 +8106,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj": {
-              "projectPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj"
+            "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj": {
+              "projectPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj"
             }
           }
         }

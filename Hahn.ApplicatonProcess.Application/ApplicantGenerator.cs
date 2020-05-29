@@ -18,7 +18,7 @@ namespace Hahn.ApplicatonProcess.May2020.Web
                 FamilyName = "Ortak",
                 Address = "Toronto",
                 CountryOfOrigin = "Turkey",
-                EmailAddress = "mo@mo.com",
+                EmailAddress = "mrtortak@email.com",
                 Age = 29,
                 Hired = true
             };

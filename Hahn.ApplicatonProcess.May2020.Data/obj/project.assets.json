@@ -8057,11 +8057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj",
+      "projectUniqueName": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj",
       "projectName": "Hahn.ApplicatonProcess.May2020.Data",
-      "projectPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj",
+      "projectPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\Hahn.ApplicatonProcess.May2020.Data.csproj",
       "packagesPath": "C:\\Users\\murat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\murat\\source\\repos\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\obj\\",
+      "outputPath": "C:\\Users\\murat\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
